@@ -4,5 +4,5 @@ Built only with GOLang.
 
 For running this project you will need the minimum Go instalation and a Postgres image running on Docker.
 
-go mod tidy
-go run main.go
+go mod tidy <br />
+go run main.go <br />
