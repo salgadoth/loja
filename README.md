@@ -1,4 +1,4 @@
-Simple CRUD RESTful API with an interface for adding, updating and deleting products. 
+Simple CRUD application for adding, updating and deleting products. 
 
 Built only with GOLang.
 
